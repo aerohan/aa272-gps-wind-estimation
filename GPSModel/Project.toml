@@ -1,0 +1,9 @@
+name = "GPSModel"
+uuid = "951deb9b-125c-4610-b030-d4666e99cf42"
+authors = ["Rohan Punnoose <rohanjp@stanford.edu>"]
+version = "0.1.0"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Geodesy = "0ef565a4-170c-5f04-8de2-149903a85f3d"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
